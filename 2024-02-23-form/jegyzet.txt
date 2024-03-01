@@ -1,0 +1,13 @@
+Kombipanel:
+típus megváltoztatása kombi mező
+a sor forrásnál meg kell adni egy lekérdezést amelyből választok majd
+
+a kötött oszlopnál meg kell adni hogy a sor forrás hanyadik mezőjét tárolja majd el a jelentkezés
+
+legördülő lista tulajdonságok: oszlopszám 3, oszlopszélességek:0cm,5cm,5cm
+
+igen/nem-nél jelölőnégyzet:
+jobbklikk mező, adat fül, az elsőnél kiválasztjuk a mezőt
+vagy
+váltógomb:
+cím sorba beírjuk azt hogy támogatott

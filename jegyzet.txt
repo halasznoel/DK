@@ -1,0 +1,25 @@
+Kombipanel:
+1. Típus megváltoztatása kombi mezőre
+2. A sor forrásnál meg kell adni egy lekérdezést amelyből választok majd
+3. Lekérdezés megtervezése
+4. A kötött oszlopban meg kell mondani hogy a sorforrás hanyadik oszlopát akarom eltárolni a Mezőt vagy kifejezésben
+5. Formátum: Oszlopszám: annyira ahány mező van a sorforrásban. 
+	     Oszlopszélességek: 0;8cm
+Űrlaptervező:
+1. 2 sor kitörlése
+2. XYZ vezérlőelem-csoport
+3. vezérlőelem-csoport tulajdonságlap: Mező vagy kifejezés átállítása pl: szemszinre
+4. Választógomb belerakása a vezérlőelem-csoportba
+5. Választógombok elnevezése elhelyezése
+6. Választógomb tulajdonságlap: 
+
+Táblába OLE objektum és kötött objektum
+Mező vagy kifejezés: pl: picture
+Kipróbálás: OLE objektumon jobbklikk - objektum beszúrása
+
+
+igen/nem-nél jelölőnégyzet:
+jobbklikk mező, adat fül, az elsőnél kiválasztjuk a mezőt
+vagy
+váltógomb:
+cím sorba beírjuk azt hogy támogatott
