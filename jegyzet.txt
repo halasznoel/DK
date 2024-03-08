@@ -5,6 +5,7 @@ Kombipanel:
 4. A kötött oszlopban meg kell mondani hogy a sorforrás hanyadik oszlopát akarom eltárolni a Mezőt vagy kifejezésben
 5. Formátum: Oszlopszám: annyira ahány mező van a sorforrásban. 
 	     Oszlopszélességek: 0;8cm
+
 Űrlaptervező:
 1. 2 sor kitörlése
 2. XYZ vezérlőelem-csoport
